@@ -1,4 +1,4 @@
-import java.util.*;
+gitimport java.util.*;
 
 //2960774 Evandro Gomez Quintino
 class zombieDice{
