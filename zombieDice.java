@@ -1,6 +1,6 @@
 import java.util.*;
 
-//2960774 Evandro Gomez Quintino
+//2960774 
 class zombieDice {
 
 	// Turn global veriables
