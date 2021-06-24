@@ -1,3 +1,5 @@
+![zombieDice](https://user-images.githubusercontent.com/36605703/123330395-dea0df80-d535-11eb-856c-366a837900c1.jpg)
+
 # Project Name: Zombie Dice Game
 ### Programming Language: ***Java***
 ### Description:
