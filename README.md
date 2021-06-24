@@ -6,4 +6,4 @@
 ### Documents:
 
 - [Requirements](https://github.com/EvandroGomezQuintino/zombieDice/blob/master/Assignment%20Title%20Sheet%20CP%20Zombie%20Dice.pdf)
-- [Program's reference](https://github.com/EvandroGomezQuintino/zombieDice/blob/master/Assignment3%20-%20Evandro%202960774.docx)
+- [Design Document](https://github.com/Ramisar/zombieDice/blob/master/Design%20Document%20-%20Assignment%203.pdf)
