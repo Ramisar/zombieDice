@@ -9,4 +9,5 @@
 ### Documents:
 
 - [Requirements](https://github.com/EvandroGomezQuintino/zombieDice/blob/master/Assignment%20Title%20Sheet%20CP%20Zombie%20Dice.pdf)
+- [Game Rules](https://github.com/Ramisar/zombieDice/blob/78d4db167ed940d008f5471d1d4a57e29761f48a/ZDRules_English.pdf)
 - [Design Document](https://github.com/Ramisar/zombieDice/blob/master/Design%20Document%20-%20Assignment%203.pdf)
