@@ -460,7 +460,7 @@ class zombieDice {
 		// Looping to get the user's option
 		while (option != 1) {
 			// User has the option to increase the arrayList unlimited
-			System.out.println("\n      Would you like to increase the number of players?");
+			System.out.println("\n      The game is setup for two players, would you like to increase the number of players?");
 			System.out.println("      1) Yes        2) No");
 
 			// Var `Char` instead of integer because I was trying to avoid crash the game
@@ -470,7 +470,7 @@ class zombieDice {
 
 			// Selected 1: user increase the number of players
 			if (playersOption == '1') {
-				System.out.println("      Please inform the number of players to be increased:");
+				System.out.println("      Please how many players should be added:");
 				// User input
 				totalPlayers = totalPlayers + kb.nextInt();
 				// Clear the Scanner
